@@ -1,0 +1,8 @@
+const greetings ={
+sayHello: () => "Hellow,world",
+sayGoodMorning: () => "Good morning!",
+}
+modules.exports = greetings;
+
+
+npm ini
